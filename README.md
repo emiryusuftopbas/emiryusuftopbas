@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,net,cs,php,python,js,c,arduino" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=cs,java,php,python,js,c,arduino" alt="Skills and tools"/>
   </a>
 </p>
 
@@ -30,6 +30,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,selenium,sklearn,bootstrap" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=net,tensorflow,selenium,sklearn,bootstrap" alt="Skills and tools"/>
   </a>
 </p>

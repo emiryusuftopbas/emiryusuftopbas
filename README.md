@@ -10,26 +10,17 @@
 </p>
 <p>&nbsp;</p>
 <h3 align="center">🛠️ Languages and Tools</h3>
-
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,java,php,python,js,c" alt="Skills and tools"/>
-  </a>
 </p>
 
 <h3 align="center">📊 DBMS</h3>
-
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Skills and tools"/>
-  </a>
 </p>
 
 
 <h3 align="center">📦 Frameworks & Libraries</h3>
-
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=net,arduino,tensorflow,selenium,sklearn,bootstrap" alt="Skills and tools"/>
-  </a>
 </p>
